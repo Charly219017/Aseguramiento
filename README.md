@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # para correr prueba es 
 npm test
 
@@ -315,3 +316,6 @@ Los logs se guardan en:
 ## Licencia
 
 MIT License 
+=======
+# Aseguramiento
+>>>>>>> 94fead104a349987ed0a9e11eac6fe5f3ad4cc8f
